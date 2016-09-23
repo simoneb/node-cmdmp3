@@ -1,0 +1,11 @@
+{
+  "name": "cmdmp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Simone Busoli <simone.busoli@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.2.1"
+  }
+}
